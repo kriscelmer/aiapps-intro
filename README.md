@@ -4,8 +4,8 @@ Welcome to [AI Apps with ChatGPT and LangChain: The Introduction](https://www.ud
 
 Prepare the environment:
 
-1) Install Python 3.11 or upgrade existing Python installation to 3.11
-2) Install Miniconda (if not installed yet) by following instructions at [Conda docs](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+1) Install **Python 3.11** or upgrade existing Python installation to 3.11
+2) Install **Miniconda** (if not installed yet) by following instructions at [Conda docs](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 3) Git clone this repo to your local system
 4) Create a new Python Virtual Environment, for example using `conda`:
 
@@ -20,7 +20,7 @@ conda activate aiapps
 ```
 
 6) Go to cloned repo directory `cd aiapps-intro`
-7) Install Python libraries:
+7) Install Python libraries in the virtual environment:
 
 ```
 pip install -r requirements.txt
