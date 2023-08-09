@@ -1,0 +1,22 @@
+# Packages for ChatGPT and LangChain learning & development
+# Install in virtual environment with Python 3.11 or newer
+python-dotenv
+openai
+langchain
+google-search-results
+unstructured
+tiktoken
+chromadb
+docarray
+pandas
+flask
+beautifulsoup4
+GitPython
+pypdf
+wikipedia
+notebook
+pydantic
+gradio
+youtube-transcript-api
+wget
+sentence_transformers
